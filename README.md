@@ -2,7 +2,7 @@
 用于保证线下渗透演练或者工控比赛中的行动一致性
 附带的 [命令](https://github.com/jindaxia/militarization/blob/main/commands.md)
 
-## 军事化
+## 统一思想
 
 - 统一工具版本
   - msf6： metasploit v6.3.4-dev
