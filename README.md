@@ -1,6 +1,6 @@
 # 军事化
 用于保证线下渗透演练或者工控比赛中的行动一致性
-附带的 命令[https://github.com/jindaxia/militarization/blob/main/commands.md]
+附带的 [命令](https://github.com/jindaxia/militarization/blob/main/commands.md)
 
 ## 军事化
 
