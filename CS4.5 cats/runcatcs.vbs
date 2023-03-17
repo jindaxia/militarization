@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "jdk-11.0.15.1\bin\java.exe -Dfile.encoding=UTF-8 -XX:+UseParallelGC -Duser.language=en -jar cat_client.jar client",0

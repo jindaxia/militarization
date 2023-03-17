@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4680422fa599d3b83e3fe04e9f1050f078c84b6ac55213b4fc9b0ca26868d5e9
-size 235
+# qqproxy
+
+源码基于  https://github.com/armon/go-socks5
+
+.exe结尾是windows版，没有后缀的linux版
+
+修改了端口和auth
+
+- user：synb123
+- pass：qqNBNo.1
+- port:   41080
+
+no auth版本：
+
+- port： 41088

@@ -1,0 +1,4 @@
+on ready {
+   println("Hello,cobalt strike[cat]");
+   closeClient();
+}
